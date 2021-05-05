@@ -1,0 +1,21 @@
+token: ""
+path:
+- /sda/p
+- /sdb/p
+- /sdc/p
+- /sdd/p
+minerName: DE1482512322
+apiKey: 2e70015a-0575-460b-b771-4574fd4c72e4
+cachePath: ""
+deviceId: ""
+extraParams: {}
+log:
+  lv: info
+  path: ./log/
+  name: miner.log
+url:
+  info: ""
+  submit: ""
+scanPath: true
+scanMinute: 60
+debug: ""
